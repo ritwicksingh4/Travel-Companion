@@ -2,7 +2,7 @@
 
 ![Travel Companion](https://i.ibb.co/qph2cZn/image.pngg)
 
-## Introduction and Features
+## Introduction
 - Built and Deployed an advanced Travel Companion Application using Google Maps. 
 - With Geolocation, 
 - Google Maps API, 
