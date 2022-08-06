@@ -12,7 +12,10 @@
 - data filtering and much more, 
 - this Travel Advisor App is one of the most useful applications.
 
-Features :
+## Deployed Link
+https://travel-with-us-app.netlify.app/
+
+## Features :
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Created a User Interface using Material UI
 - Working with Google Maps API
