@@ -1,6 +1,6 @@
-# Travel Advisor
+# Travel Companion
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![Travel Companion](https://i.ibb.co/qph2cZn/image.pngg)
 
 ## Introduction and Features
 - Built and Deployed an advanced Travel Companion Application using Google Maps. 
